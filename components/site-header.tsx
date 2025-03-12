@@ -30,9 +30,9 @@ export function SiteHeader() {
             <Link href="/features" className="text-sm font-medium transition-colors hover:text-primary">
               Features
             </Link>
-            <Link href="/pricing" className="text-sm font-medium transition-colors hover:text-primary">
+            {/* <Link href="/pricing" className="text-sm font-medium transition-colors hover:text-primary">
               Pricing
-            </Link>
+            </Link> */}
             <Link href="/faq" className="text-sm font-medium transition-colors hover:text-primary">
               FAQ
             </Link>

@@ -17,7 +17,7 @@ export default function SignupPage() {
             <div className="space-y-2">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Create Your Account</h1>
               <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Join thousands of traders using TradingAI to enhance their trading performance.
+                Join thousands of traders using BlueberryAI to enhance their trading performance.
               </p>
             </div>
           </div>

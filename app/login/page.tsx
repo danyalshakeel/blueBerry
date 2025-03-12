@@ -17,7 +17,7 @@ export default function LoginPage() {
             <div className="space-y-2">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Welcome Back</h1>
               <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Log in to your TradingAI account to access your dashboard and trading tools.
+                Log in to your BlueberryAI account to access your dashboard and trading tools.
               </p>
             </div>
           </div>

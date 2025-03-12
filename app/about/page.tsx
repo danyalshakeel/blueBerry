@@ -15,7 +15,7 @@ export default function AboutPage() {
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
-                <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl">About TradingAI</h1>
+                <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl">About BlueberryAi</h1>
                 <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   We're on a mission to democratize algorithmic trading through artificial intelligence, making
                   sophisticated trading strategies accessible to everyone.
@@ -33,7 +33,7 @@ export default function AboutPage() {
                 <div className="inline-block rounded-lg bg-muted px-3 py-1 text-sm">Our Story</div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">From Vision to Reality</h2>
                 <p className="text-muted-foreground md:text-xl/relaxed">
-                  Founded in 2020, TradingAI began with a simple idea: what if sophisticated trading algorithms could be
+                  Founded in 2020, BlueberryAi began with a simple idea: what if sophisticated trading algorithms could be
                   accessible to everyone, not just Wall Street firms?
                 </p>
                 <p className="text-muted-foreground md:text-xl/relaxed">
@@ -41,10 +41,10 @@ export default function AboutPage() {
                   level the playing field, giving individual traders the same technological advantages as institutional
                   investors.
                 </p>
-                <p className="text-muted-foreground md:text-xl/relaxed">
+                {/* <p className="text-muted-foreground md:text-xl/relaxed">
                   Today, TradingAI serves thousands of traders worldwide, processing millions of transactions daily with
                   our cutting-edge AI algorithms.
-                </p>
+                </p> */}
               </div>
               <div className="flex items-center justify-center">
                 <div className="relative h-[450px] w-full overflow-hidden rounded-xl bg-muted">
@@ -225,7 +225,7 @@ export default function AboutPage() {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Ready to Join Us?</h2>
                 <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Start your journey with TradingAI today and experience the future of algorithmic trading.
+                  Start your journey with BlueberryAi today and experience the future of algorithmic trading.
                 </p>
               </div>
               <div className="w-full max-w-sm space-y-2">

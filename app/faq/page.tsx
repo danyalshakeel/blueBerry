@@ -19,7 +19,7 @@ export default function FaqPage() {
               <div className="space-y-2">
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl">Frequently Asked Questions</h1>
                 <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Find answers to common questions about TradingAI and our services.
+                  Find answers to common questions about BlueberryAi and our services.
                 </p>
               </div>
               <div className="w-full max-w-md">
@@ -54,9 +54,9 @@ export default function FaqPage() {
                 <div className="mx-auto max-w-3xl">
                   <Accordion type="single" collapsible className="w-full">
                     <AccordionItem value="item-1">
-                      <AccordionTrigger>What is TradingAI?</AccordionTrigger>
+                      <AccordionTrigger>What is ?</AccordionTrigger>
                       <AccordionContent>
-                        TradingAI is an advanced trading platform that uses artificial intelligence to automate trading
+                        BlueberryAI is an advanced trading platform that uses artificial intelligence to automate trading
                         strategies across various financial markets. Our platform analyzes market data in real-time and
                         executes trades based on sophisticated algorithms, helping traders of all experience levels
                         achieve better results.
@@ -72,24 +72,24 @@ export default function FaqPage() {
                       </AccordionContent>
                     </AccordionItem>
                     <AccordionItem value="item-3">
-                      <AccordionTrigger>Is TradingAI suitable for beginners?</AccordionTrigger>
+                      <AccordionTrigger>Is BlueberryAI suitable for beginners?</AccordionTrigger>
                       <AccordionContent>
-                        Yes, TradingAI is designed to be accessible for traders of all experience levels. Beginners can
+                        Yes, BlueberryAI is designed to be accessible for traders of all experience levels. Beginners can
                         benefit from our automated trading systems without needing deep technical knowledge. We provide
                         educational resources and a user-friendly interface to help you get started. However, we
                         recommend understanding basic trading concepts before using our platform.
                       </AccordionContent>
                     </AccordionItem>
                     <AccordionItem value="item-4">
-                      <AccordionTrigger>What markets can I trade with TradingAI?</AccordionTrigger>
+                      <AccordionTrigger>What markets can I trade with BlueberryAI?</AccordionTrigger>
                       <AccordionContent>
-                        TradingAI supports trading across multiple markets, including stocks, forex, cryptocurrencies,
+                        BlueberryAI supports trading across multiple markets, including stocks, forex, cryptocurrencies,
                         commodities, and futures. Our platform integrates with major exchanges and brokers to provide a
                         wide range of trading opportunities.
                       </AccordionContent>
                     </AccordionItem>
                     <AccordionItem value="item-5">
-                      <AccordionTrigger>How secure is TradingAI?</AccordionTrigger>
+                      <AccordionTrigger>How secure is BlueberryAI?</AccordionTrigger>
                       <AccordionContent>
                         Security is our top priority. We implement enterprise-grade security measures, including
                         end-to-end encryption, multi-factor authentication, and regular security audits. Your funds
@@ -117,7 +117,7 @@ export default function FaqPage() {
                       <AccordionTrigger>Can I have multiple trading accounts?</AccordionTrigger>
                       <AccordionContent>
                         Yes, you can connect multiple trading accounts from different brokers or exchanges to your
-                        TradingAI account. This allows you to manage all your trading activities from a single
+                        BlueberryAI account. This allows you to manage all your trading activities from a single
                         dashboard.
                       </AccordionContent>
                     </AccordionItem>
@@ -165,7 +165,7 @@ export default function FaqPage() {
                     <AccordionItem value="item-3">
                       <AccordionTrigger>What is the minimum investment required?</AccordionTrigger>
                       <AccordionContent>
-                        The minimum investment depends on your broker or exchange requirements. TradingAI itself doesn't
+                        The minimum investment depends on your broker or exchange requirements. BlueberryAI itself doesn't
                         have a minimum requirement, but we recommend starting with at least $1,000 to effectively
                         utilize our strategies and diversify your trades.
                       </AccordionContent>
